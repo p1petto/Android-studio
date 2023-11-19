@@ -1,4 +1,10 @@
 # Android-studio
+## The "Random Movie" application with data in JSON
+
+![](image/Film1.jpg)  
+
+![](image/Film2.jpg)  
+
 ## GuessTheNumber
 
 ![](image/guess1.jpg)  
